@@ -38,6 +38,6 @@ export default [
     id: 6,
     name: 'Holly Caine',
     age: 23,
-    image: '1-birthday-reminder\setup\0.jpg',
+    image: '/1-birthday-reminder/setup/0.jpg',
   },
 ];
